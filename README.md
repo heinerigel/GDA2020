@@ -11,8 +11,9 @@ In case there are problems with the internet connection, please go forward with 
 
 - The focus is on understanding the Fourier transform, and estimating spectra
 - In the notebook Folder P03a-c contain fundamental maths prerequisites that you are welcome to go through!
-- P04 contains note books about Spectral estimation and time-frequency analysis. 
-- Go from a-c, b contains the more involved exercises, c is a simple intro to convolution. 
+- P04 contains note books about Fourier Series, simples spectra. 
+- Go from a-c,  c is a simple intro to convolution. 
+- P05 is an exmple of spectral estimation for Earth's free oscillations. 
 
 *Wednesday*
 
