@@ -15,6 +15,22 @@ In case there are problems with the internet connection, please go forward with 
 - Go from a-c,  c is a simple intro to convolution. 
 - P05 is an exmple of spectral estimation for Earth's free oscillations. 
 
+10:00 Lecture Fourier Basis
+
+13:00 Lecture Spectral Estimation and Applications
+
+16:00 Discussion and Wrap up
+
+
+
 *Wednesday*
 
 - The focus is on convolution, deconvolution, and filtering
+
+10:00 Lecture Linear Systems
+
+13:00 Lecture Filtering
+
+16:00 Discussion and Wrap up
+
+
